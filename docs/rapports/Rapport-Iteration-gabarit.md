@@ -1,16 +1,16 @@
-# Rapport itération X - équipe Y
+# Rapport itération 1 - équipe 01
 
-## LOG210-année-session-groupe (ex. LOG210-2020-été-g01)
+## LOG210-2021-hiver-gr02
 
 ### Coéquipiers
 
+- Sashcov, Ariel, SASA02029508
 - Nom, Prénom, Code universel
 - Nom, Prénom, Code universel
 
 ### Chargés de laboratoire
 
-- Nom, Prénom
-- Nom, Prénom
+- Laforge, Edouard
 
 # Grille de correction
 
